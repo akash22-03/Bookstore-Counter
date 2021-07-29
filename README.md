@@ -1,2 +1,2 @@
 # Bookstore-Counter
-SQLite Project
+GUI-SQLite-Python
